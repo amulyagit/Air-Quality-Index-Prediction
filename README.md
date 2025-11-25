@@ -25,9 +25,9 @@ Results:
 -- Decision Tree is also a good model at predicting AQI.
 
 Citations:
- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html
- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html
- https://scikit-learn.org/stable/modules/tree.html
- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
- https://xgboost.readthedocs.io/en/stable/python/python_api.html
+-- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+-- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html
+--https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html
+-- https://scikit-learn.org/stable/modules/tree.html
+-- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+-- https://xgboost.readthedocs.io/en/stable/python/python_api.html
